@@ -1,9 +1,9 @@
 ###Marina Bortnik  
 ---
-####My Contact info:
+####My Contact info
 - Phone: +375295592462
 - E-mail: <marinasb0915@gmail.com>
-- GitHub:[MarinaSB0915](github.com/MarinaSB0915)
+- GitHub:[MarinaSB0915](https://github.com/MarinaSB0915)
 - Telegram: [MarinaSB0915](https://t.me/MarinaSB0915)
 ####About me
 I am a computer science and mathematics teacher in college. I also teach applied computer science, where we study Autodesk Fusion and Inventor programs.
@@ -33,6 +33,8 @@ return 4
 ####Education
 - Belarusian state pedagogical university named after Maxim Tank
 - Magistracy "Methods of teaching mathematics"
+- Courses: [stepik.org](https://stepik.org)
+
 ####Languages
 - Russian, Belarusian.
 - English – A1 (A2 in process)
