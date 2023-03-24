@@ -32,3 +32,11 @@ return 4
 }
 }
 ```
+####Education
+- Belarusian state pedagogical university named after Maxim Tank
+- Magistracy "Methods of teaching mathematics"
+- Courses: [stepik.org](https://stepik.org)
+
+####Languages
+- Russian, Belarusian.
+- English – A1 (A2 in process)
