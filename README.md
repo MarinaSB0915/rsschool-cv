@@ -1,1 +1,1 @@
-https://github.com/MarinaSB0915/rsschool-cv/blob/gh-pages/cv.md
+https://marinasb0915.github.io/rsschool-cv/
