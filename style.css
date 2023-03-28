@@ -24,7 +24,10 @@
     font-weight: 700;
 }
 
-
+.h2 { font-size: 25px;
+    line-height: 32px;
+    font-weight: 700;
+}
 .first {
     width: 70%;
     display: flex;
